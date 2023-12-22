@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+# Please take pull from master branch
 
 Please ensure  below mentioned dependencies are installed  in order to run the project
 
